@@ -3,6 +3,8 @@
 ![alt text](https://github.com/RepakaRamateja/Alexapolyskill/blob/master/images/overview.png)
 
 
+
+
 Architecture:
 
 ![alt text](https://github.com/RepakaRamateja/Alexapolyskill/blob/master/images/Architecure.png)
@@ -34,7 +36,7 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
 
 
 
-Overview
+Overview:
 
 Converts text to audio mp3 files using Amazon Poly service
 
