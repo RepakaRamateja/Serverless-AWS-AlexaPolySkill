@@ -33,6 +33,7 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
 
 
 
+
 Overview
 
 Converts text to audio mp3 files using Amazon Poly service
@@ -40,8 +41,10 @@ Converts text to audio mp3 files using Amazon Poly service
 Alexa skill created uses generated audio files by Poly.
 
 
- Features:
-  
+
+
+Features:
+
   First user need to enter input text and then select voice from the list.
 
   Then click on button Say it
