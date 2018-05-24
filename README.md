@@ -2,8 +2,7 @@
 
 ![alt text](https://github.com/RepakaRamateja/Alexapolyskill/blob/master/images/overview.png)
 
-
-
+</br>
 
 Architecture:
 
@@ -56,9 +55,11 @@ Features:
 
   It retrives all the mp3 files that are converted and stored in S3 bucket.
 
+</br>
 
 ![alt text](https://github.com/RepakaRamateja/Alexapolyskill/blob/master/images/files.png)
 
+</br>
 
   Now user can download all the files.
 
