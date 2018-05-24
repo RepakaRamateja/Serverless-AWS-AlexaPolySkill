@@ -33,11 +33,7 @@ Amazon SNS(simple notification service) is asynchronous service which invokes co
 
 Amazon Dynamodb is amazon nosql db service which is used for storing  and retriving of the posts.
 
-
-
-
-
-
+</br>
 
 Overview:
 
@@ -46,10 +42,7 @@ Converts text to audio mp3 files using Amazon Poly service
 Alexa skill created uses generated audio files by Poly.
 
 
-
-
-
-
+</br>
 
 Features:
 
