@@ -1,6 +1,6 @@
 # Alexapolyskill
 
-Serverless web application built using Amazon AWS services S3 | API GateWay | Lambda | DynamoDB | SNS | Poly | Alexa Skill
+Serverless web application built using python and Amazon AWS services S3 | API GateWay | Lambda | DynamoDB | SNS | Poly | Alexa Skill
 
 </br>
 
