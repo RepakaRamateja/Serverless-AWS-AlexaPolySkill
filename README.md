@@ -52,7 +52,7 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
 
   To retrive the files type * in the text box and then click on search button.
 
-  It retrives all the mp3 files that are converted and stored in S3 bucket.
+  It retrives all the mp3 files that are converted and stored in S3 bucket. (Refer below screen shot)
 
 </br>
 
