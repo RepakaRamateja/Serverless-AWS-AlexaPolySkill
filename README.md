@@ -185,11 +185,11 @@ Last but not least build  amazon alexa skill which uses the audio files present 
 
 • go to designer and then add triggers
 
-  alexa skills kit
+    alexa skills kit
 
-  after saving create new file index.js
+    after saving create new file index.js
 
-   alexa lab src contains that file index.js
+    alexa lab src contains that file index.js
 
 • Now go s3 bucket where your audio files are stored and then 
 
