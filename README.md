@@ -1,6 +1,12 @@
 # Alexapolyskill
 
-![alt text](https://github.com/RepakaRamateja/Alexapolyskill/blob/master/images/overview.png)
+Serverless web application built using Amazon AWS services S3 | API GateWay | Lambda | DynamoDB | SNS | Poly | Alexa Skill
+
+</br>
+
+## Objective:
+
+• The goal is to build a application which converts text to audio mp3 files using Amazon Poly service and also to publish Alexa skill which uses the generated audio files by Poly. 
 
 </br>
 
@@ -36,14 +42,13 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
 
 Overview:
 
-Converts text to audio mp3 files using Amazon Poly service
-
-Alexa skill created uses generated audio files by Poly.
 
 
 </br>
 
 Features:
+
+![alt text](https://github.com/RepakaRamateja/Alexapolyskill/blob/master/images/overview.png)
 
   First user need to enter input text and then select voice from the list.
 
