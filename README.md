@@ -97,9 +97,9 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
 
 ## Features:
 
-### Serverless website
-
 </br>
+
+### Serverless website
 
 ![alt text](https://github.com/RepakaRamateja/Alexapolyskill/blob/master/images/overview.png)
 
