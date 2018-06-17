@@ -63,7 +63,7 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
   Now user can download all the files.
 
 
-### Publishing Alexa Skill   
+###  Alexa Skill   
 
   Last but not least build  amazon alexa skill which uses the audio files present in s3 bucket. 
 
