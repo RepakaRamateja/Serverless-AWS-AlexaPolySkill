@@ -75,7 +75,7 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
 	</tr>
 	<tr>
 		<td>Back-End</td>
-		<td>python</td>
+		<td>Python</td>
 	</tr>
 	<tr>
 		<td>Database</td>
