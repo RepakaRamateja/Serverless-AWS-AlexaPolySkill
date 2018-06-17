@@ -6,11 +6,11 @@ Serverless web application built using Amazon AWS services S3 | API GateWay | La
 
 ## Objective:
 
-• The goal is to build a application which converts text to audio mp3 files using Amazon Poly service and also to publish Alexa skill which uses the generated audio files by Poly. 
+The goal is to build application using serverless architecture which converts text to audio mp3 files using Amazon Poly service and finally to publish Alexa skill which uses the generated audio files by Poly. 
 
 </br>
 
-Architecture:
+## Architecture:
 
 ![alt text](https://github.com/RepakaRamateja/Alexapolyskill/blob/master/images/Architecure.png)
 
@@ -40,13 +40,7 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
 
 </br>
 
-Overview:
-
-
-
-</br>
-
-Features:
+## Features:
 
 ![alt text](https://github.com/RepakaRamateja/Alexapolyskill/blob/master/images/overview.png)
 
