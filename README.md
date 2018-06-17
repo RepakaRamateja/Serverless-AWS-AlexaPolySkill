@@ -1,6 +1,6 @@
 # Alexapolyskill
 
-Serverless web application built using python and Amazon AWS services S3 | API GateWay | Lambda | DynamoDB | SNS | Poly  and  Amazon Alexa Skill
+ Amazon Alexa Skill and Serverless web application built using PYTHON | HTML 5 |  CSS 3| JAVASCRIPT and Amazon AWS services  S3 | API GateWay | Lambda | DynamoDB | SNS | Poly 
 
 </br>
 
@@ -12,6 +12,7 @@ The goal is to build application using serverless architecture which converts te
 
 ## Architecture:
 
+</br>
 
 ### Serverless Website
 
@@ -41,6 +42,7 @@ Amazon SNS(simple notification service) is asynchronous service which invokes co
 
 Amazon Dynamodb is amazon nosql db service which is used for storing  and retriving of the posts.
 
+</br>
 
 ### Alexa skill
 
@@ -81,7 +83,7 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
 	</tr>
     <tr>
 		<td>Other Aws Services</td>
-		<td>API GateWay | Lambda | DynamoDB | SNS | Poly | Amazon Alexa Skill</td>
+		<td>API GateWay | Lambda | DynamoDB | SNS | Poly | Amazon Alexa Skill Set</td>
 	</tr>
 </tbody>
 </table>
@@ -90,6 +92,10 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
 
 
 ## Features:
+
+### Serverless website
+
+</br>
 
 ![alt text](https://github.com/RepakaRamateja/Alexapolyskill/blob/master/images/overview.png)
 
@@ -114,95 +120,4 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
 
 ###  Alexa Skill   
 
-  amazon.alexa.com 
-
-  while loggind into the alexa website use the same email address for alexa developer services
-
-  developer.amazon.com
-
-  click on alexa skill kit
-
-  then create skill
-
-  fill the details like skill name and details
-
-  now chooose a model to add your skill
-
-  select custom skill and then create skill
-
-  now it will create skill interface now we need to fill four details
-
-  Invocation Name : simply name to invoke your skill
-
-  Intents Samples and Slots
-
-  Build Model
-
-  Endpoint
-
-
-add intent GetNewFactIntent
-
-then configure sample utterances
-
-tell me a fact
-
-give me a fact
-
-help me study
-
-tell me something
-
-save model
-
-build model
-
-takes some time
-
-Now in case of endpoint supply alexa portal with aws resource name
-
-now go back to aws console and create new lambda function
-
-blue print and type alexa
-
-then select alexa-skill-kit-sdk-factskill
-
-enter name and role choose an existing role
-
-and create a function
-
-go to designer and then add triggers
-
-alexa skills kit
-
-after saving create new file index.js
-
-alexa lab src contains that file index.js
-
-now go s3 bucket where your audio files are stored and then 
-
-select the links and paste them in the code 
-
-save the file 
-
-save the lambda function
-
-copy the arn and go to alexa developer window and paste the arn 
-
-save the end points and save 
-
-now go to test the skill and test it 
-
-you can also test it in real life i.e by using amazon alexa
-
-
-
-  Last but not least build  amazon alexa skill which uses the audio files present in s3 bucket. 
-
   
-
-  
-
-
-
-
