@@ -51,6 +51,7 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
 
 ### Technology stack
 
+![alt text](https://github.com/RepakaRamateja/Alexapolyskill/blob/master/images/stack.png)
 
 
 ## Features:
