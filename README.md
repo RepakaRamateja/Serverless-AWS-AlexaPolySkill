@@ -46,12 +46,16 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
 
 ### Alexa skill
 
+</br>
+
 ![alt text](https://github.com/RepakaRamateja/Alexapolyskill/blob/master/images/skillarch.png)
 
 
 </br>
 
 ### Technology stack
+
+</br>
 
 ![alt text](https://github.com/RepakaRamateja/Alexapolyskill/blob/master/images/stack.png)
 
