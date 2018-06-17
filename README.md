@@ -53,6 +53,41 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
 
 ![alt text](https://github.com/RepakaRamateja/Alexapolyskill/blob/master/images/stack.png)
 
+</br>
+
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>Technology</th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Front-End</td>
+		<td>HTML5, CSS3, Javascript</td>
+	</tr>
+	<tr>
+		<td>Back-End</td>
+		<td>python</td>
+	</tr>
+	<tr>
+		<td>Database</td>
+		<td>Dynamo DB(Mlab Cloud Service)</td>
+	</tr>
+  <tr>
+		<td>Images Storage</td>
+		<td>Amazon AWS-S3</td>
+	</tr>
+    <tr>
+		<td>Other Aws Services</td>
+		<td>API GateWay | Lambda | DynamoDB | SNS | Poly | Amazon Alexa Skill</td>
+	</tr>
+</tbody>
+</table>
+
+</br>
+
 
 ## Features:
 
