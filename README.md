@@ -203,7 +203,9 @@ Last but not least build  amazon alexa skill which uses the audio files present 
 
 • Now go to test the skill and test it 
 
-you can also test it in real life i.e by using amazon alexa echo or dot that's it.
+you can also test it in real life i.e by using amazon alexa echo or echo dot 
+
+So through echo dot or alexa echo based on your invocation name and utterances it will start replying with audio mp3 files that's it.
   
 
 
