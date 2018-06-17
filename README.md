@@ -73,7 +73,7 @@ Amazon Dynamodb is amazon nosql db service which is used for storing  and retriv
 	</tr>
 	<tr>
 		<td>Database</td>
-		<td>Dynamo DB(Mlab Cloud Service)</td>
+		<td>Dynamo DB(Aws Cloud Service)</td>
 	</tr>
   <tr>
 		<td>Images Storage</td>
